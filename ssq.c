@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 void main()
 {
 int i,count;
@@ -12,4 +13,6 @@ count++;
 i++;
 }
 printf("\n the count of the string is %d",count);
+getch();
 }
+
