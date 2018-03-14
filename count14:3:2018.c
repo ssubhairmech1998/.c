@@ -1,4 +1,8 @@
 #include<stdio.h>
+
+#include<conio.h>
+
+
 void main()
 {
 int i,count=0;
@@ -13,4 +17,5 @@ count++;
 }
 printf(" %d",count);
 }
+ getch();
 }
